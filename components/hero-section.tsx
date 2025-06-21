@@ -11,7 +11,7 @@ export function HeroSection() {
               {/* ✅ LOGO + GAME */}
               <h1 className="flex items-center gap-2 text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
                 <img
-                  src="/images/Backup_of_FOR LINK.svg" // or your actual path
+                  src="/images/WhatsApp Image 2025-06-21 at 13.34.49_bd0e368a.jpg" // or your actual path
                   alt="Logo"
                   width={80}
                   height={80}

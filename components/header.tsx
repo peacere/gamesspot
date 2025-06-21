@@ -6,7 +6,7 @@ import { useState, useEffect } from "react";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { isBrowser } from "@/lib/browser-utils";
-const logo = "/images/Backup_of_FOR LINK.svg";
+const logo = "/images/WhatsApp Image 2025-06-21 at 13.34.49_bd0e368a.jpg";
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
